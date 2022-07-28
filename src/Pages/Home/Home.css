@@ -1,0 +1,136 @@
+.name{
+    text-align: center;
+}
+.li{
+    list-style:disc;
+    position: relative;
+    left: 100px;
+    top: 100px;
+}
+.bike{
+    position: relative;
+    left: 100px;
+    top: 10px;
+}
+.home{
+    background-color: rgb(163, 162, 159);
+}
+.home1{
+    display: flex;
+}
+i{
+    padding: 0 0 0 30px;
+    color: rgb(3, 56, 103);
+}
+h1{
+    color: rgb(240, 255, 247);
+}
+.child{
+    text-align: center;
+}
+.prod1{
+    display: flex;
+    background-color: rgb(49, 48, 48);
+    height: 200px;
+    width: 600px;
+    position: relative;
+    left: 50px;
+}
+.child1{
+    display: grid;
+    color: aliceblue;
+}
+.h41{
+    color: rgb(5, 201, 64);
+    position: relative;
+    left: 60px;
+    top: 30px;
+}
+.img1{
+    position: relative;
+    left: 20px;
+    top: 50px;
+}
+.text1{
+    position: relative;
+    left: 60px;
+}
+.prod2{
+    display: flex;
+    background-color: rgb(49, 48, 48);
+    height: 200px;
+    width: 600px;
+    position: relative;
+    left: 50px;
+}
+.prod3{
+    display: flex;
+    background-color: rgb(49, 48, 48);
+    height: 200px;
+    width: 600px;
+    position: relative;
+    left: 50px;
+}
+.prod4{
+    display: flex;
+    background-color: rgb(49, 48, 48);
+    height: 200px;
+    width: 600px;
+    position: relative;
+    left: 50px;
+}
+.prod5{
+    display: flex;
+    background-color: rgb(49, 48, 48);
+    height: 300px;
+    width: 600px;
+    position: relative;
+    left: 50px;
+}
+.prod6{
+    display: flex;
+    background-color: rgb(49, 48, 48);
+    height: 300px;
+    width: 600px;
+    position: relative;
+    left: 50px;
+}
+.parent{
+    display: flex;
+    background-color: rgb(92, 90, 90);
+}
+.semi1{
+    display:grid;
+}
+.semi2{
+    display: grid;
+    position: relative;
+    left: 10px;
+}
+.prod7{
+    display: flex;
+    background-color: rgb(49, 48, 48);
+    height: 250px;
+    width: 600px;
+    position: relative;
+    left: 50px;
+    bottom: 14px;
+}
+.prod8{
+    display: flex;
+    background-color: rgb(49, 48, 48);
+    height: 250px;
+    width: 600px;
+    position: relative;
+    left: 50px;
+    bottom: 14px;
+}
+.prod9{
+    display: flex;
+    background-color: rgb(49, 48, 48);
+    height: 250px;
+    width: 600px;
+    position: relative;
+    left: 50px;
+    bottom: 22px;
+}

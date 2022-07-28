@@ -1,0 +1,45 @@
+.Container{
+    display: flex;
+    background-color: rgb(13, 13, 26);
+    width: 100%;
+    height: 100px;
+}
+.links{
+    display: flex;
+    position: relative;
+    left: 470px; 
+}
+a{
+    text-decoration: none;
+    color: rgb(46, 176, 6);
+}
+li{
+    list-style: none;
+    padding: 1rem;
+    font-size: 20px;
+    
+}
+.image{
+    width: 200px;
+    height: 60px;
+    position: relative;
+    left: 30px;
+    top: 13px;
+}
+.search{
+    position: relative;
+    left: 450px;
+    top: 35px;
+    font-size: 20px;
+    color: rgb(46, 176, 6);
+}
+.button1{
+    position: relative;
+    left: 20px;
+    top: 4px;
+}
+.button2{
+    position: relative;
+    left: -100px;
+    top: 4px;
+}
